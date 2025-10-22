@@ -1,0 +1,27 @@
+# Arquivos temporários
+*.tmp
+*.temp
+*~
+
+# Logs
+*.log
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de configuração do editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node modules (se usar npm no futuro)
+node_modules/
+
+# Arquivos de build
+dist/
+build/
+
+# Arquivos de cache
+.cache/
